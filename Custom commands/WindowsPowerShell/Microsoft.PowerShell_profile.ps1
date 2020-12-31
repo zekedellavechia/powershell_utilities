@@ -1,0 +1,1 @@
+function touch {New-Item -ItemType File -Name ($args[0])}
